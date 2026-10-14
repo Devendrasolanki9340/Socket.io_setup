@@ -1,0 +1,4 @@
+
+
+io => whole server
+socket => single user
